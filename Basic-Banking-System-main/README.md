@@ -1,7 +1,13 @@
 # Basic-Bannking-System
   
 A Web Application used to transfer money between multiple users (Project contains 10 dummy users). A dummy user can also be created.  
+#TextUtils
 
+<img width="700" alt="Pattern-1" src="img/Screenshot 2023-07-04 at 11.46.36 PM.png">
+
+<img width="700" alt="Pattern-1" src="img/Screenshot 2023-07-04 at 11.46.56 PM.png">
+
+<img width="700" alt="Pattern-1" src="img/Screenshot 2023-07-04 at 11.47.09 PM.png">
 # Tech Stack used - 
 Front-end : HTML, CSS, Bootstrap & Javascript 
 Back-end : PHP 
